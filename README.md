@@ -1,2 +1,2 @@
 # dox
-✏ dox is a simple real time document editing
+✏ dox is a minimalist real time document editing
